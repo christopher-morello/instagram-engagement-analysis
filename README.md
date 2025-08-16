@@ -43,8 +43,8 @@ I dati sono stati estratti da Meta Business Suite e successivamente anonimizzati
 - Grafici a barre per confronto tra formati
 - Analisi correlazionale tra metriche
 
-## Visualizzazioni Dashboard su Tableau
-https://public.tableau.com/views/AnalisiInstagram/Formatodipubblicazione?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[**Visualizzazione Dashboard su Tableau**](https://public.tableau.com/views/AnalisiInstagram/Formatodipubblicazione?:language=it-IT&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Principali Insight
 1. Durata dei reel
