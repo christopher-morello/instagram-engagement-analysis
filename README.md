@@ -65,13 +65,6 @@ Ottimizzare il timing: Concentrare i contenuti migliori nelle serate del weekend
 - Focus sui contenuti salvabili: creare guide, tutorial, liste e contenuti educativi che stimolino i salvataggi
 - Prioritizzare l'engagement sulla reach: sviluppare contenuti che stimolino commenti e condivisioni attraverso domande aperte e call-to-action mirate
 
-## Utilizzo
-
-- Aprire il notebook instagram_analysis.ipynb
-- Eseguire tutte le celle per riprodurre l'analisi
-- Il dataset è già incluso e pronto all'uso
-- Le visualizzazioni verranno generate automaticamente
-
 ## Contributi
 I contributi sono benvenuti. Per modifiche sostanziali, aprire prima una issue per discutere i cambiamenti proposti.
 ##Licenza
