@@ -4,7 +4,7 @@ Include visualizzazioni, analisi delle metriche di engagement e raccomandazioni 
 
 Il progetto esamina dati dell'intero anno 2024 per fornire insights actionable sulla strategia di content marketing.
 
-[Progetto analisi su Jupyter Notebook[(instagram_analysis.ipynb)
+[Progetto analisi su Jupyter Notebook](instagram_analysis.ipynb)
 
 ## Obiettivi
 
