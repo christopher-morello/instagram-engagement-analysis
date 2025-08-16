@@ -67,9 +67,9 @@ Ottimizzare il timing: Concentrare i contenuti migliori nelle serate del weekend
 
 ## Contributi
 I contributi sono benvenuti. Per modifiche sostanziali, aprire prima una issue per discutere i cambiamenti proposti.
-##Licenza
+## Licenza
 Questo progetto è distribuito sotto licenza MIT. Vedere il file LICENSE per maggiori dettagli.
-##Autore
+## Autore
 Christopher Morello
 
 >_Analisi basata su dati Instagram del 2024, elaborati attraverso tecniche di data science per fornire insights actionable sulla strategia di content marketing._
