@@ -63,7 +63,7 @@ I dati sono stati estratti da Meta Business Suite e successivamente anonimizzati
 
 - Aumentare la durata dei Reel: Sperimentare contenuti oltre i 2 minuti, particolarmente adatti per contenuti educativi
 - Ridurre l'uso dei caroselli: Limitare questo formato dato il suo impatto negativo sull'engagement
-Ottimizzare il timing: Concentrare i contenuti migliori nelle serate del weekend
+- Ottimizzare il timing: Concentrare i contenuti migliori nelle serate del weekend
 
 **Strategiche**
 
